@@ -2,16 +2,16 @@
 name: "Liv Cella"
 
 # Description of your content (will only be used on Google Search)
-description: "Liv Cella"
+description: "Lyv Cella"
 
 # Your name. Will show in your footer + sidebar
-author: "Liv Cella"
+author: "Lyv Cella"
 
 url: "http://m3xm.github.io"
 baseurl: "/hikari-for-jekyll"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "I'm a dog. I develop things. This is my blog so why don't you close this damn side panel (cursed by most UX Designers but I don't care, I do whatever I want) and start reading my awesome stuff?"
+author-bio: "I lost all my changes last time"
 
 # Social Accounts (mine, as placeholders)
 
