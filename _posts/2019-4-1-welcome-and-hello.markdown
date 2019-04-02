@@ -10,7 +10,9 @@ I've been told to consider my look, my internet presence, my social media activi
 
 So welcome to my blog - which will in time also serve as my portfolio - this is mostly a place for me to express ideas related to code, education, and tech as a whole.
 
-At the end of every page, I'll be including a recipe I am currently enjoying. Without further adieu, I present this post's recipe: "Roasted Salmon and Asparagus with Hollandaise"
+At the end of every page, I'll be including a recipe I am currently enjoying. Without further adieu, I present this post's recipe:
+
+## Roasted Salmon and Asparagus with Hollandaise
 
 ### Ingredients
 
