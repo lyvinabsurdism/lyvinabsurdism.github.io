@@ -11,14 +11,13 @@ url: "http://m3xm.github.io"
 baseurl: "/lyvinabsurdism.github.io"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "I lost all my changes last time"
+author-bio: "I am a web developer who can often be found climbing, skiing, and obsessively thinking about code. She currently lives in Salt Lake City, Utah and her favorite recipe right now is the Mac & Cheese."
 
 # Social Accounts (mine, as placeholders)
 
-twitter: mx3m
-github: m3xm
-dribbble: m3xm
-instagram: m3xm
+twitter: lyvinabsurdism
+github: lyvinabsurdism
+
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
