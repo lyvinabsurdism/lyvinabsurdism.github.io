@@ -12,7 +12,7 @@ So welcome to my blog - which will in time also serve as my portfolio - this is 
 
 At the end of every page, I'll be including a recipe I am currently enjoying. Without further adieu, I present this post's recipe: "Roasted Salmon and Asparagus with Hollandaise"
 
-# Ingredients
+### Ingredients
 
 * 12 oz salmon (2 fillets of similar size)
 * 2 tsp dill
@@ -21,7 +21,7 @@ At the end of every page, I'll be including a recipe I am currently enjoying. Wi
 * Salt and pepper
 * 2 eggs (optional)
 
-## For the Hollandaise Sauce:
+#### For the Hollandaise Sauce:
 * 4 egg yolks
 * 1 tbsp lemon juice
 * 1/4 tsp salt (omit if using salted butter)
@@ -30,7 +30,7 @@ At the end of every page, I'll be including a recipe I am currently enjoying. Wi
 Note: the hollandaise sauce will make a larger batch than you need, but a smaller batch is only feasible if you have an immersion blender. In a regular blender, you need more liquid.
 
 
-## Instructions
+### Instructions
 
 Preheat oven to 375 degrees and line a baking sheet with aluminum foil.
 
