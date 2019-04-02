@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Setting up Jekyll on Github Pages (is easier than you think)"
-date:   2014-01-08 16:57:51
+title:  "Aiming For Consistency"
+date:   2019-01-06 16:57:51
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
