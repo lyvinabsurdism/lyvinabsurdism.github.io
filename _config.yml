@@ -5,7 +5,7 @@ name: "Lyv Cella"
 description: "Lyv Cella"
 
 # Your name. Will show in your footer + sidebar
-author: "Lyv Cella"
+author: "Liv Cella"
 
 url: "http://m3xm.github.io"
 baseurl: "/livinabsurdism.github.io"
@@ -21,7 +21,7 @@ github: lyvinabsurdism
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
-ga_domain: lyvinabsurdism.github.io
+ga_domain: livinabsurdism.github.io
 ga_tracking_id: UA-137519920-1
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
