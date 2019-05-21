@@ -1,14 +1,14 @@
 # Title of your blog; shows in the header
-name: "Lyv Cella"
+name: "Liv Cella"
 
 # Description of your content (will only be used on Google Search)
-description: "Lyv Cella"
+description: "Liv Cella"
 
 # Your name. Will show in your footer + sidebar
 author: "Liv Cella"
 
 url: "http://m3xm.github.io"
-baseurl: "/livinabsurdism.github.io"
+baseurl: "livinabsurdism.github.io"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "I am a web developer who can often be found climbing, skiing, and obsessively thinking about code. I currently live in Salt Lake City, Utah and my favorite recipe right now is the Mac & Cheese."
