@@ -8,7 +8,7 @@ description: "Liv Cella"
 author: "Liv Cella"
 
 url: "http://livinabsurdism.github.io"
-baseurl: ""
+baseurl: "/hikari-for-jekyll"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "I am a web developer who can often be found climbing, skiing, and obsessively thinking about code. I currently live in Salt Lake City, Utah and my favorite recipe right now is the Mac & Cheese."
