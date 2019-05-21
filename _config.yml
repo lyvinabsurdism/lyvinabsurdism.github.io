@@ -7,7 +7,7 @@ description: "Liv Cella"
 # Your name. Will show in your footer + sidebar
 author: "Liv Cella"
 
-url: "http://m3xm.github.io"
+url: "http://livinabsurdism.github.io"
 baseurl: "livinabsurdism.github.io"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
@@ -15,14 +15,14 @@ author-bio: "I am a web developer who can often be found climbing, skiing, and o
 
 # Social Accounts (mine, as placeholders)
 
-twitter: lyvinabsurdism
-github: lyvinabsurdism
+twitter: livinabsurdism
+github: livinabsurdism
 
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
 ga_domain: livinabsurdism.github.io
-ga_tracking_id: UA-137519920-1
+ga_tracking_id:
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
