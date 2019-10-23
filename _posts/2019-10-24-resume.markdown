@@ -4,5 +4,12 @@ title:  "Test Post"
 date:   2019-04-01 16:57:51
 ---
 {% raw %}
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTfshorCEqvRp7ofhfIugQIzIOwLf04DE16c1mWYY6YDUjoMDtZHjPMKgPtDs-M9-RFdxcsZoFGrnfS/pub?embedded=true"></iframe>
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
+<!-- this is the embed code provided by Google -->
+  <iframe src="https://docs.google.com/document/d/e/2PACX-1vTfshorCEqvRp7ofhfIugQIzIOwLf04DE16c1mWYY6YDUjoMDtZHjPMKgPtDs-M9-RFdxcsZoFGrnfS/pub?embedded=true"></iframe>
+<!-- Google embed ends -->
+</div>
 {% endraw %}
