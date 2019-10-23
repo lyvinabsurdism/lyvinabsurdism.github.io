@@ -11,12 +11,13 @@ url: "http://livinabsurdism.github.io"
 baseurl: "/"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "I am a web developer who can often be found climbing, skiing, and obsessively thinking about code. I currently live in Salt Lake City, Utah and my favorite recipe right now is Salmon with Hollandaise Sauce."
+author-bio: "I am a web developer who can often be found skiing, breaking down old cars, and obsessively thinking about code. I currently live in Salt Lake City, Utah."
 
 # Social Accounts (mine, as placeholders)
 
 twitter: livinabsurdism
 github: livinabsurdism
+
 
 
 # Google Analytics (you may want to changes these with yours or even delete :)
