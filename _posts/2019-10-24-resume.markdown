@@ -3,4 +3,4 @@ layout: post
 title:  "Test Post"
 date:   2019-04-01 16:57:51
 ---
-<iframe width="480" height="360" src="https://docs.google.com/document/d/e/2PACX-1vTfshorCEqvRp7ofhfIugQIzIOwLf04DE16c1mWYY6YDUjoMDtZHjPMKgPtDs-M9-RFdxcsZoFGrnfS/pub?embedded=true" frameborder="0"> </iframe>
+<iframe width="100%" height="100%" src="https://docs.google.com/document/d/e/2PACX-1vTfshorCEqvRp7ofhfIugQIzIOwLf04DE16c1mWYY6YDUjoMDtZHjPMKgPtDs-M9-RFdxcsZoFGrnfS/pub?embedded=true" frameborder="0"> </iframe>
