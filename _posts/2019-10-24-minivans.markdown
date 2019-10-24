@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Grand Story of the Toyota Previa: 💖A JDM Love Story💖"
+date: 2019-10-12
 ---
 
 This is a big fat test post
