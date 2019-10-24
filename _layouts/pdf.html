@@ -2,17 +2,8 @@
 layout: default
 ---
 
-<section class="single-wrap">
-  <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
-    <div class="feat">
-      <h5 class="page-date">
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {{ page.date | date_to_long_string }}
-        </time>
-      </h5>
-    </div>
 
-    <div itemprop="articleBody" align="center">
+    <div itemprop="articleBody">
       {{ content }}
     </div>
     <div class="feat share">
@@ -30,5 +21,3 @@ layout: default
         &larr; <span class="nav-title nav-title-prev">older</span>
       </a>
     {% endif %}
-  </article>
-</section>
